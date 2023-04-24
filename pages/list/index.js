@@ -7,7 +7,7 @@ export default function List(){
     // console.log(b)
     return(
         <div>
-            <h4 className="title">상품목록</h4>
+            <h4 className="title">상품 목록</h4>
             {
                 상품.map((n, i)=>{
                     return (
