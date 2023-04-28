@@ -9,6 +9,7 @@ export default function Document() {
         <Link href="/">홈</Link>
         <Link href="/list">List</Link>
         <Link href="/cart">Cart</Link>
+        <Link href="/login">Login</Link>
       </div>
         <Main />
         <NextScript />
